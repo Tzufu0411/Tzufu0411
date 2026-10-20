@@ -6,7 +6,7 @@
 
 ### 💻 &nbsp;About Me
 
-- 🌱 I'm currently learning **Python**
+- 🌱 I'm currently learning **Python and Java**
 - 🌐 My personal web page [https://tzufu0411.github.io/](https://tzufu0411.github.io/) (I'm too lazy to set up a domain)
 - 📫 How to reach me **tzufu.taiwan@gmail.com**
 
@@ -60,13 +60,3 @@
 <br>
 
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ovfylmgqgcquyzfqn234hcipou" alt="Spotify recently played" width="450"/>
-
-<br><br>
-
-***
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tzufu0411&label=Profile%20views&color=0e75b6&style=flat" alt="Tzufu0411" />
-</p>
-
-</div>
